@@ -1,0 +1,4 @@
+Node_distribution :singlecenter
+
+Problem_name :singlecenter-61-n20
+alpha :2
